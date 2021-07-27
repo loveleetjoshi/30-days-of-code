@@ -9,4 +9,6 @@ function main() {
   } catch (e) {
     console.log('Bad String')
   }
+  finally{
+  }
 }
